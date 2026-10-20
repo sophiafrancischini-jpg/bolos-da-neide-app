@@ -34,3 +34,5 @@ forma_pagamento
 valor_pago
 status_pagamento
 id_encomenda (FK)
+ 
+ ![Diagrama DER](./database/image.png)
